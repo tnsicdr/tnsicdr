@@ -1,4 +1,21 @@
-### Hi there 👋
+# tnsicdr
+> Hi, I'm tnsicdr, short for "tensei coder"; I also go by Thanh, tensei, tianqing, or 天青. I am primarily a JavaScript developer, but have dabbled in Ruby, Python, and C#. I am most at home with TypeScript, React, and GraphQL. 
+
+## 👤 Pronouns
+- ve/ver, he/him
+
+## 💎 Areas of Focus
+- React
+- TypeScript
+- NodeJS
+
+## 📚 What I'm Learning
+- Swift, AppKit, UIKit
+- Python, Flask, Postgres
+
+## 🎙 Socials
+- 🐦 [@tnsicdr](https://twitter.com/tnsicdr)
+- 📷 [tnsicdr](https://instagram.com/tnsicdr)
 
 <!--
 **tnsicdr/tnsicdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
