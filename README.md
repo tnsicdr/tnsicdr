@@ -11,7 +11,7 @@
 
 ## 📚 What I'm Learning
 - Swift, AppKit, UIKit
-- Python, Flask, Postgres
+- Rust
 
 ## 🎙 Socials
 - 🐦 [@tnsicdr](https://twitter.com/tnsicdr)
