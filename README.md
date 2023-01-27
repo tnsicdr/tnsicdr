@@ -12,10 +12,10 @@
 ## 📚 What I'm Learning
 - Swift, AppKit, UIKit
 - Rust
+- [Astro](https://astro.build)
 
 ## 🎙 Socials
 - 🐦 [@tnsicdr](https://twitter.com/tnsicdr)
-- 📷 [tnsicdr](https://instagram.com/tnsicdr)
 
 <!--
 **tnsicdr/tnsicdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
