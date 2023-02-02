@@ -1,5 +1,5 @@
 # tnsicdr
-> Hi, I'm tnsicdr, short for "tensei coder"; I also go by Thanh, tensei, tianqing, or 天青. I am primarily a JavaScript developer, but have dabbled in Ruby, Python, and C#. I am most at home with TypeScript, React, and GraphQL. 
+> Hi, I'm tensei; I also go by Thanh, tianqing, or 天青. I am primarily a JavaScript developer, but have dabbled in Ruby, Python, and C#. I am most at home with TypeScript, React, and GraphQL. 
 
 ## 👤 Pronouns
 - ve/ver, he/him
